@@ -28,7 +28,7 @@ section {
 }
 
 section .img-content  img {
-    width: 320px;
+    width: 336px;
 }
 
 section .content {
@@ -43,4 +43,12 @@ section .profile {
     align-items: center;
     gap: .5rem;
     align-self: flex-start;
+}
+
+.content .learning {
+    background-color: #F4D04E;
+    width: 82px;
+    text-align: center;
+    border-radius: 4px;
+    padding: .5rem .2rem;
 }
